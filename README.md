@@ -8,9 +8,8 @@
 </h2>
 <div align="center">
     <p align="center">
-        <img src="docs/logo/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
-        <img src="docs/logo/fitdnu_logo.png" alt="FIT DNU Logo" width="180"/>
-        <img src="docs/logo/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
+        <img src="Images/logo/AIoTLab_logo.png" alt="AIoTLab Logo" width="170"/>
+        <img src="Images/logo/logo.png" alt="DaiNam University Logo" width="200"/>
     </p>
 
 [![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
@@ -26,18 +25,6 @@
 **Tank Trouble** là game bắn tank 2D theo thể loại arena, xây dựng trên nền tảng **Unity 6** với **Universal Render Pipeline (URP)**. Điểm nổi bật của dự án là tích hợp **điều khiển bằng cử chỉ tay thật qua webcam** sử dụng Python và MediaPipe — cho phép người chơi di chuyển xe tăng, ngắm bắn và khai hỏa chỉ bằng bàn tay trước camera.
 
 Game có hệ thống AI enemy thông minh (A\* Pathfinding + State Machine), nhiều loại map với modifier riêng (sương mù, item drops), và hệ thống vật phẩm đa dạng (hồi máu, khiên).
-
----
-
-## 📄 Poster Dự án
-
-<p align="center">
-    <a href="./Poster.pdf">
-        <img src="https://img.shields.io/badge/📄_Xem_Poster_Dự_Án-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Poster PDF"/>
-    </a>
-</p>
-
-> 📌 **Poster** trình bày tổng quan kiến trúc hệ thống, luồng game và các tính năng nổi bật. [**Nhấn vào đây để xem Poster (PDF)**](./Poster.pdf)
 
 ---
 
@@ -76,12 +63,22 @@ Game có hệ thống AI enemy thông minh (A\* Pathfinding + State Machine), nh
 
 ## 📸 Giao diện & Chức năng
 
+### Màn hình cốt truyện
+Hiển thị phần giới thiệu bối cảnh game trước khi bắt đầu trận đấu. 
+Người chơi sẽ được dẫn dắt vào thế giới chiến trường với phần intro ngắn, tạo cảm giác kịch tính và định hướng nhiệm vụ.
+
+<p align="center">
+  <img src="Images/story_screen.png" width="700"/>
+</p>
+
+<p align="center"><i>Màn hình intro cốt truyện trước khi vào game</i></p>
+
 ### Màn hình chọn Tank
 Carousel 3D xoay tank, kéo chuột để xem góc độ, hiển thị thông số bằng TextMeshPro.
 
 | Chọn Tank | Thông số Tank |
 |:---:|:---:|
-| ![Tank Selection](./docs/img/tank_selection.png) | ![Tank Stats](./docs/img/tank_stats.png) |
+| ![Tank Selection](Images/tank_selection.png) | ![Tank Stats](.Images/tank_stats.png) |
 | *Gallery xe tăng xoay 3D* | *Thông số và mô tả chi tiết* |
 
 ### Màn hình chọn Map
@@ -89,7 +86,7 @@ Chọn map → chọn chế độ chơi → vào trận.
 
 | Chọn Map | Chọn chế độ |
 |:---:|:---:|
-| ![Map Selection](./docs/img/map_selection.png) | ![Map Type](./docs/img/map_type.png) |
+| ![Map Selection](.Images/map_selection.png) | ![Map Type](.Images/map_type.png) |
 | *Danh sách map có thể chơi* | *Normal / HasItem / HasFog* |
 
 ### HUD trong trận
@@ -97,7 +94,7 @@ Thanh máu, cooldown bắn, crosshair, damage popup nổi số.
 
 | Combat HUD | Damage Popup |
 |:---:|:---:|
-| ![HUD](./docs/img/combat_hud.png) | ![Damage](./docs/img/damage_popup.png) |
+| ![HUD](.Images/combat_hud.png) | ![Damage](.Images/damage_popup.png) |
 | *Thanh máu player và enemy* | *Số damage nổi lên khi trúng đạn* |
 
 ### Settings & Hand Control
@@ -105,7 +102,7 @@ Cài đặt nhạc, âm thanh, chế độ điều khiển; kết nối Python w
 
 | Settings Panel | Hand Control Connect |
 |:---:|:---:|
-| ![Settings](./docs/img/settings_panel.png) | ![Hand Control](./docs/img/hand_control.png) |
+| ![Settings](.Images/settings_panel.png) | ![Hand Control](.Images/hand_control.png) |
 | *Popup Settings có thể mở bất kỳ lúc nào* | *Màn hình kết nối webcam* |
 
 ### Màn hình kết quả
@@ -113,7 +110,7 @@ Win/Lose với hiệu ứng fade, replay hoặc về menu chính.
 
 | Chiến thắng | Thất bại |
 |:---:|:---:|
-| ![Win](./docs/img/win_screen.png) | ![Lose](./docs/img/lose_screen.png) |
+| ![Win](.Images/win_screen.png) | ![Lose](.Images/lose_screen.png) |
 | *Màn hình thắng* | *Màn hình thua* |
 
 ---
