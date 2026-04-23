@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 5cd5cb388f65c97468886559ade65a77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -787712549362592953
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_0
+  - first:
+      213: 6304824821304048716
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_1
+  - first:
+      213: -4583504172964945386
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_2
+  - first:
+      213: -2323556596441097832
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_3
+  - first:
+      213: 2150689304082636016
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_4
+  - first:
+      213: 8665974961883108822
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_5
+  - first:
+      213: 5548417296382877200
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_6
+  - first:
+      213: -5013087060511300643
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_7
+  - first:
+      213: -7228320423160952495
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_8
+  - first:
+      213: -6175907224366290743
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_9
+  - first:
+      213: -7374075763693477896
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_10
+  - first:
+      213: -5056149246722687275
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_11
+  - first:
+      213: -6016788750148139947
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_12
+  - first:
+      213: -2206996234950339699
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_13
+  - first:
+      213: 6298024726047247765
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_14
+  - first:
+      213: -3213483479535710763
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_15
+  - first:
+      213: -4409416292498256406
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_16
+  - first:
+      213: -1948170178201101036
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_17
+  - first:
+      213: -6195780468232967822
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_18
+  - first:
+      213: -1968076100918831697
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_19
+  - first:
+      213: -7170358412418299942
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_20
+  - first:
+      213: 2426995472219285799
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_21
+  - first:
+      213: -8510054789531448085
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_22
+  - first:
+      213: -8007226501010732916
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_23
+  - first:
+      213: -2845621830172178290
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_24
+  - first:
+      213: -8564609901036879007
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_25
+  - first:
+      213: 4380197907675175818
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_26
+  - first:
+      213: 5417003608910964526
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_27
+  - first:
+      213: -6030578232613686177
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_28
+  - first:
+      213: 6646209326141544032
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_29
+  - first:
+      213: 6366316795853389345
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_30
+  - first:
+      213: -4942560127633604464
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_31
+  - first:
+      213: -2109053360011925625
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_32
+  - first:
+      213: -917894303540126952
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_33
+  - first:
+      213: 284360473698826702
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_34
+  - first:
+      213: 2003559658041490646
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_35
+  - first:
+      213: -5490518311962285771
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_36
+  - first:
+      213: 516397909623624980
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_37
+  - first:
+      213: -2580448062867122290
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_38
+  - first:
+      213: -2911218136496357464
+    second: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 201
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743102e1c9b7115f0800000000000000
+      internalID: -787712549362592953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 203
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cb4e445cc3f7750800000000000000
+      internalID: 6304824821304048716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 203
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61267e73d3f1460c0800000000000000
+      internalID: -4583504172964945386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 198
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899dc95169111cfd0800000000000000
+      internalID: -2323556596441097832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 200
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcd318f688c8dd10800000000000000
+      internalID: 2150689304082636016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 199
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5d873405ab34870800000000000000
+      internalID: 8665974961883108822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ed8806220fffc40800000000000000
+      internalID: 5548417296382877200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 168
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3ed1201efed6ab0800000000000000
+      internalID: -5013087060511300643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 169
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1594ac65fd8dfab90800000000000000
+      internalID: -7228320423160952495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_9
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 167
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8e0edc915ca4aa0800000000000000
+      internalID: -6175907224366290743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_10
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 167
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff9b3699250aa990800000000000000
+      internalID: -7374075763693477896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 167
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de3cb97c03f4d9b0800000000000000
+      internalID: -5056149246722687275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 141
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5548ad29282108ca0800000000000000
+      internalID: -6016788750148139947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 142
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8319231e9c2f51e0800000000000000
+      internalID: -2206996234950339699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 141
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d4ca6be14176750800000000000000
+      internalID: 6298024726047247765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 141
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd00b61dc96763d0800000000000000
+      internalID: -3213483479535710763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 139
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed42da7e3b9ec2c0800000000000000
+      internalID: -4409416292498256406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 136
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d50567b85b6f4e0800000000000000
+      internalID: -1948170178201101036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 136
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279aba4ad7a240aa0800000000000000
+      internalID: -6195780468232967822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 137
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa51cc9a63dffa4e0800000000000000
+      internalID: -1968076100918831697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 138
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7c29b9305cd7c90800000000000000
+      internalID: -7170358412418299942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 104
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729ac11f58b6ea120800000000000000
+      internalID: 2426995472219285799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 102
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beccdd2d14636e980800000000000000
+      internalID: -8510054789531448085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 102
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c884923ebed90e090800000000000000
+      internalID: -8007226501010732916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 104
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e888d7fa5025288d0800000000000000
+      internalID: -2845621830172178290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 102
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16347e81ca4642980800000000000000
+      internalID: -8564609901036879007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_26
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 99
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b53ec2ac699cc30800000000000000
+      internalID: 4380197907675175818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 98
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27a520f4101d2b40800000000000000
+      internalID: 5417003608910964526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 66
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54bbde7c051f4ca0800000000000000
+      internalID: -6030578232613686177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 61
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0661e834b241c3c50800000000000000
+      internalID: 6646209326141544032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_30
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 61
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12eb1784563b95850800000000000000
+      internalID: 6366316795853389345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 66
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090c36f20cf786bb0800000000000000
+      internalID: -4942560127633604464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_32
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 65
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7872520b4232bb2e0800000000000000
+      internalID: -2109053360011925625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 62
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bd2208efbf243f0800000000000000
+      internalID: -917894303540126952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 22
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9fafe185042f300800000000000000
+      internalID: 284360473698826702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_35
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 24
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcbdd7c4e21ecb10800000000000000
+      internalID: 2003559658041490646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_36
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 22
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539e5be6fa2cdc3b0800000000000000
+      internalID: -5490518311962285771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415dedda92d9a2700800000000000000
+      internalID: 516397909623624980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_38
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 23
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87d57b9828603cd0800000000000000
+      internalID: -2580448062867122290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 21
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afb57677864997d0800000000000000
+      internalID: -2911218136496357464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_0: -787712549362592953
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_1: 6304824821304048716
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_10: -7374075763693477896
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_11: -5056149246722687275
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_12: -6016788750148139947
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_13: -2206996234950339699
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_14: 6298024726047247765
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_15: -3213483479535710763
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_16: -4409416292498256406
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_17: -1948170178201101036
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_18: -6195780468232967822
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_19: -1968076100918831697
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_2: -4583504172964945386
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_20: -7170358412418299942
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_21: 2426995472219285799
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_22: -8510054789531448085
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_23: -8007226501010732916
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_24: -2845621830172178290
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_25: -8564609901036879007
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_26: 4380197907675175818
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_27: 5417003608910964526
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_28: -6030578232613686177
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_29: 6646209326141544032
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_3: -2323556596441097832
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_30: 6366316795853389345
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_31: -4942560127633604464
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_32: -2109053360011925625
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_33: -917894303540126952
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_34: 284360473698826702
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_35: 2003559658041490646
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_36: -5490518311962285771
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_37: 516397909623624980
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_38: -2580448062867122290
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_39: -2911218136496357464
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_4: 2150689304082636016
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_5: 8665974961883108822
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_6: 5548417296382877200
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_7: -5013087060511300643
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_8: -7228320423160952495
+      A_Bunch_Of_Rocks_Revambed128x_By_verzatiledev_9: -6175907224366290743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
